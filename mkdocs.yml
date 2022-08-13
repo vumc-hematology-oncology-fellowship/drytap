@@ -28,8 +28,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  favicon: images/vumc-favicon.png
-  logo: images/vumc-favicon.png
+  favicon: images/blood_drop.png
+  logo: images/blood_drop.png
   palette:
     - scheme: default
       primary: black
